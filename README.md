@@ -19,7 +19,7 @@ Ride-Sharing Data: City Types (fig.1)
 
 ## Summary
 Although the the graph below shows that regardless of city type the fares are fairly consistant with peaks at the end of February 2019  and and dips in March 2019 there are a few recommendations to address disparities among the city types. 
-1[PyBer_fare_summary](https://github.com/adecoste2/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true)
+![PyBer_fare_summary](https://github.com/adecoste2/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true)
 
 ### Recommendations
 1. Charge more per mile in Urban areas to offset the driver's average fare. 
